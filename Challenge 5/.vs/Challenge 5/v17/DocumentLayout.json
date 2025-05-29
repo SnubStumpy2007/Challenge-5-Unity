@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|c:\\users\\joshu\\documents\\unity\\challenge 5\\challenge-5-unity\\challenge 5\\assets\\challenge 5\\scripts\\gamemanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 5\\scripts\\gamemanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|c:\\users\\joshu\\documents\\unity\\challenge 5\\challenge-5-unity\\challenge 5\\assets\\challenge 5\\scripts\\targetx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 5\\scripts\\targetx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|c:\\users\\joshu\\documents\\unity\\challenge 5\\challenge-5-unity\\challenge 5\\assets\\challenge 5\\scripts\\difficultybuttonx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 5\\scripts\\difficultybuttonx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|c:\\users\\joshu\\documents\\unity\\challenge 5\\challenge-5-unity\\challenge 5\\assets\\challenge 5\\scripts\\buttontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 5\\scripts\\buttontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|c:\\users\\joshu\\documents\\unity\\challenge 5\\challenge-5-unity\\challenge 5\\assets\\challenge 5\\scripts\\destroyobjectx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6762CA07-2045-D233-E56B-EDA3846B964B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 5\\scripts\\destroyobjectx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TargetX.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\TargetX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 5\\Scripts\\TargetX.cs",
+              "ToolTip": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\TargetX.cs",
+              "RelativeToolTip": "Assets\\Challenge 5\\Scripts\\TargetX.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:10:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\GameManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 5\\Scripts\\GameManagerX.cs",
+              "ToolTip": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\GameManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 5\\Scripts\\GameManagerX.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:09:56.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DifficultyButtonX.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\DifficultyButtonX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 5\\Scripts\\DifficultyButtonX.cs",
+              "ToolTip": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\DifficultyButtonX.cs",
+              "RelativeToolTip": "Assets\\Challenge 5\\Scripts\\DifficultyButtonX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:09:45.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroyObjectX.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\DestroyObjectX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 5\\Scripts\\DestroyObjectX.cs",
+              "ToolTip": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\DestroyObjectX.cs",
+              "RelativeToolTip": "Assets\\Challenge 5\\Scripts\\DestroyObjectX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:09:42.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonTest.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\ButtonTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 5\\Scripts\\ButtonTest.cs",
+              "ToolTip": "C:\\Users\\joshu\\Documents\\Unity\\Challenge 5\\Challenge-5-Unity\\Challenge 5\\Assets\\Challenge 5\\Scripts\\ButtonTest.cs",
+              "RelativeToolTip": "Assets\\Challenge 5\\Scripts\\ButtonTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:07:12.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

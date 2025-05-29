@@ -15,29 +15,29 @@ public class DifficultyButtonX : MonoBehaviour
         gameManagerX = GameObject.Find("Game Manager")?.GetComponent<GameManagerX>();
         button = GetComponent<Button>();
 
-        if (button == null)
-        {
-            Debug.LogError($"{gameObject.name}: Button component is missing!");
-            return;
-        }
+        //if (button == null)
+        //{
+        //    Debug.LogError($"{gameObject.name}: Button component is missing!");
+        //    return;
+        //}
 
-        if (gameManagerX == null)
-        {
-            Debug.LogError($"{gameObject.name}: GameManagerX not found on 'Game Manager'");
-            return;
-        }
+        //if (gameManagerX == null)
+        //{
+        //    Debug.LogError($"{gameObject.name}: GameManagerX not found on 'Game Manager'");
+        //    return;
+        //}
 
         //Debug.Log($"{gameObject.name}: Button and GameManagerX found.");
         button.onClick.AddListener(SetDifficulty);
     }
 
-    void Update()
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Debug.Log($"{gameObject.name}: Mouse clicked");
-        }
-    }
+    //void Update()
+    //{
+    //    if (Input.GetMouseButtonDown(0))
+    //    {
+    //        Debug.Log($"{gameObject.name}: Mouse clicked");
+    //    }
+    //}
 
 
 
@@ -46,9 +46,9 @@ public class DifficultyButtonX : MonoBehaviour
     */
     void SetDifficulty()
     {
-        Debug.Log($"{button.gameObject.name} button clicked");
-        Debug.Log(button.gameObject.name + " was clicked");
-        gameManagerX.StartGame();
+        //Debug.Log($"{button.gameObject.name} button clicked");
+        //Debug.Log(button.gameObject.name + " was clicked");
+        gameManagerX.StartGame(difficulty);
     }
 
 
